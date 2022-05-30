@@ -1,0 +1,15 @@
+com\SerAnt\Cases\validcases.class
+com\SerAnt\Reports\validReportsPage.class
+com\SerAnt\Solutions\validsolutions.class
+com\SerAnt\Activites\validactivites.class
+com\SerAnt\Campaigns\validcampaigns.class
+com\SerAnt\Dashboard\validdashBoard.class
+com\SerAnt\Accounts\ValidateCreateAccount.class
+com\SerAnt\Potentials\Validpotentials.class
+com\SerAnt\Contracts\validcontracts.class
+com\SerAnt\Accounts\ValidAccounts.class
+com\SerAnt\Products\validproducts.class
+com\SerAnt\Forcasts\validforecasts.class
+com\SerAnt\home\Validhome.class
+com\SerAnt\Login\ValidsignIn.class
+com\SerAnt\Leads\ValidLeads.class

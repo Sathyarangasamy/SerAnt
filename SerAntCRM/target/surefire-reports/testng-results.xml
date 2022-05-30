@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validateAccountsTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Accounts: All Accounts is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validreportsPageTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[ValidLeadsTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Leads: All Open Leads is Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validcasesTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validactivitiesTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validforecastsTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[ValidsignInTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validcampaignTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validproductsTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validatecreateAccountTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Accounts details is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validsolutionsText method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validdashboardTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validpotentialsTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[Login Page is Displayed,PASS]]>
+    </line>
+    <line>
+      <![CDATA[validhomeTest method started]]>
+    </line>
+    <line>
+      <![CDATA[SerAnt Page is Displayed,PASS]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="91113" started-at="2022-05-28T20:39:58 IST" finished-at="2022-05-28T20:41:29 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="91113" started-at="2022-05-28T20:39:58 IST" finished-at="2022-05-28T20:41:29 IST">
+      <class name="com.SerAnt.home.Validhome">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.home.Validhome@58c1670b]" name="openBrowser" is-config="true" duration-ms="4689" started-at="2022-05-28T20:41:22 IST" finished-at="2022-05-28T20:41:26 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validhomeTest()[pri:0, instance:com.SerAnt.home.Validhome@58c1670b]" name="validhomeTest" duration-ms="1675" started-at="2022-05-28T20:41:26 IST" finished-at="2022-05-28T20:41:28 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validhomeTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validhomeTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.home.Validhome@58c1670b]" name="closeBrowser" is-config="true" duration-ms="809" started-at="2022-05-28T20:41:28 IST" finished-at="2022-05-28T20:41:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.home.Validhome -->
+      <class name="com.SerAnt.Forcasts.validforecasts">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Forcasts.validforecasts@37d31475]" name="openBrowser" is-config="true" duration-ms="3569" started-at="2022-05-28T20:40:31 IST" finished-at="2022-05-28T20:40:35 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validforecastsTest()[pri:0, instance:com.SerAnt.Forcasts.validforecasts@37d31475]" name="validforecastsTest" duration-ms="1534" started-at="2022-05-28T20:40:35 IST" finished-at="2022-05-28T20:40:36 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validforecastsTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validforecastsTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Forcasts.validforecasts@37d31475]" name="closeBrowser" is-config="true" duration-ms="721" started-at="2022-05-28T20:40:36 IST" finished-at="2022-05-28T20:40:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Forcasts.validforecasts -->
+      <class name="com.SerAnt.Campaigns.validcampaigns">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Campaigns.validcampaigns@32d2fa64]" name="openBrowser" is-config="true" duration-ms="3522" started-at="2022-05-28T20:40:43 IST" finished-at="2022-05-28T20:40:46 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validcampaignTest()[pri:0, instance:com.SerAnt.Campaigns.validcampaigns@32d2fa64]" name="validcampaignTest" duration-ms="1721" started-at="2022-05-28T20:40:46 IST" finished-at="2022-05-28T20:40:48 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validcampaignTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validcampaignTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Campaigns.validcampaigns@32d2fa64]" name="closeBrowser" is-config="true" duration-ms="726" started-at="2022-05-28T20:40:48 IST" finished-at="2022-05-28T20:40:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Campaigns.validcampaigns -->
+      <class name="com.SerAnt.Accounts.ValidateCreateAccount">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Accounts.ValidateCreateAccount@3e57cd70]" name="openBrowser" is-config="true" duration-ms="3321" started-at="2022-05-28T20:40:55 IST" finished-at="2022-05-28T20:40:58 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validatecreateAccountTest()[pri:0, instance:com.SerAnt.Accounts.ValidateCreateAccount@3e57cd70]" name="validatecreateAccountTest" duration-ms="4174" started-at="2022-05-28T20:40:58 IST" finished-at="2022-05-28T20:41:02 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validatecreateAccountTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+            <line>
+              <![CDATA[Accounts details is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatecreateAccountTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Accounts.ValidateCreateAccount@3e57cd70]" name="closeBrowser" is-config="true" duration-ms="729" started-at="2022-05-28T20:41:02 IST" finished-at="2022-05-28T20:41:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Accounts.ValidateCreateAccount -->
+      <class name="com.SerAnt.Dashboard.validdashBoard">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Dashboard.validdashBoard@2c039ac6]" name="openBrowser" is-config="true" duration-ms="3112" started-at="2022-05-28T20:41:10 IST" finished-at="2022-05-28T20:41:13 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validdashboardTest()[pri:0, instance:com.SerAnt.Dashboard.validdashBoard@2c039ac6]" name="validdashboardTest" duration-ms="1822" started-at="2022-05-28T20:41:13 IST" finished-at="2022-05-28T20:41:15 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validdashboardTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validdashboardTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Dashboard.validdashBoard@2c039ac6]" name="closeBrowser" is-config="true" duration-ms="718" started-at="2022-05-28T20:41:15 IST" finished-at="2022-05-28T20:41:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Dashboard.validdashBoard -->
+      <class name="com.SerAnt.Potentials.Validpotentials">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Potentials.Validpotentials@587d1d39]" name="openBrowser" is-config="true" duration-ms="3148" started-at="2022-05-28T20:41:16 IST" finished-at="2022-05-28T20:41:19 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validpotentialsTest()[pri:0, instance:com.SerAnt.Potentials.Validpotentials@587d1d39]" name="validpotentialsTest" duration-ms="2146" started-at="2022-05-28T20:41:19 IST" finished-at="2022-05-28T20:41:21 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validpotentialsTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validpotentialsTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Potentials.Validpotentials@587d1d39]" name="closeBrowser" is-config="true" duration-ms="719" started-at="2022-05-28T20:41:21 IST" finished-at="2022-05-28T20:41:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Potentials.Validpotentials -->
+      <class name="com.SerAnt.Solutions.validsolutions">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Solutions.validsolutions@9a7504c]" name="openBrowser" is-config="true" duration-ms="4766" started-at="2022-05-28T20:41:03 IST" finished-at="2022-05-28T20:41:08 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validsolutionsText()[pri:0, instance:com.SerAnt.Solutions.validsolutions@9a7504c]" name="validsolutionsText" duration-ms="1463" started-at="2022-05-28T20:41:08 IST" finished-at="2022-05-28T20:41:09 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validsolutionsText method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validsolutionsText -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Solutions.validsolutions@9a7504c]" name="closeBrowser" is-config="true" duration-ms="753" started-at="2022-05-28T20:41:09 IST" finished-at="2022-05-28T20:41:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Solutions.validsolutions -->
+      <class name="com.SerAnt.Products.validproducts">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Products.validproducts@1d8d30f7]" name="openBrowser" is-config="true" duration-ms="3447" started-at="2022-05-28T20:40:49 IST" finished-at="2022-05-28T20:40:52 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validproductsTest()[pri:0, instance:com.SerAnt.Products.validproducts@1d8d30f7]" name="validproductsTest" duration-ms="1994" started-at="2022-05-28T20:40:52 IST" finished-at="2022-05-28T20:40:54 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validproductsTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validproductsTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Products.validproducts@1d8d30f7]" name="closeBrowser" is-config="true" duration-ms="733" started-at="2022-05-28T20:40:54 IST" finished-at="2022-05-28T20:40:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Products.validproducts -->
+      <class name="com.SerAnt.Accounts.ValidAccounts">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Accounts.ValidAccounts@51e2adc7]" name="openBrowser" is-config="true" duration-ms="5408" started-at="2022-05-28T20:39:58 IST" finished-at="2022-05-28T20:40:03 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validateAccountsTest()[pri:0, instance:com.SerAnt.Accounts.ValidAccounts@51e2adc7]" name="validateAccountsTest" duration-ms="2159" started-at="2022-05-28T20:40:03 IST" finished-at="2022-05-28T20:40:06 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validateAccountsTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+            <line>
+              <![CDATA[Accounts: All Accounts is Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateAccountsTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Accounts.ValidAccounts@51e2adc7]" name="closeBrowser" is-config="true" duration-ms="769" started-at="2022-05-28T20:40:06 IST" finished-at="2022-05-28T20:40:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Accounts.ValidAccounts -->
+      <class name="com.SerAnt.Login.ValidsignIn">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Login.ValidsignIn@27808f31]" name="openBrowser" is-config="true" duration-ms="3253" started-at="2022-05-28T20:40:37 IST" finished-at="2022-05-28T20:40:40 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="ValidsignInTest()[pri:0, instance:com.SerAnt.Login.ValidsignIn@27808f31]" name="ValidsignInTest" duration-ms="1368" started-at="2022-05-28T20:40:40 IST" finished-at="2022-05-28T20:40:41 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ValidsignInTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidsignInTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Login.ValidsignIn@27808f31]" name="closeBrowser" is-config="true" duration-ms="1126" started-at="2022-05-28T20:40:41 IST" finished-at="2022-05-28T20:40:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Login.ValidsignIn -->
+      <class name="com.SerAnt.Leads.ValidLeads">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Leads.ValidLeads@36b4cef0]" name="openBrowser" is-config="true" duration-ms="3143" started-at="2022-05-28T20:40:13 IST" finished-at="2022-05-28T20:40:16 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="ValidLeadsTest()[pri:0, instance:com.SerAnt.Leads.ValidLeads@36b4cef0]" name="ValidLeadsTest" duration-ms="2260" started-at="2022-05-28T20:40:16 IST" finished-at="2022-05-28T20:40:18 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ValidLeadsTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+            <line>
+              <![CDATA[Leads: All Open Leads is Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidLeadsTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Leads.ValidLeads@36b4cef0]" name="closeBrowser" is-config="true" duration-ms="730" started-at="2022-05-28T20:40:18 IST" finished-at="2022-05-28T20:40:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Leads.ValidLeads -->
+      <class name="com.SerAnt.Reports.validReportsPage">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Reports.validReportsPage@3d921e20]" name="openBrowser" is-config="true" duration-ms="4438" started-at="2022-05-28T20:40:06 IST" finished-at="2022-05-28T20:40:11 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validreportsPageTest()[pri:0, instance:com.SerAnt.Reports.validReportsPage@3d921e20]" name="validreportsPageTest" duration-ms="1489" started-at="2022-05-28T20:40:11 IST" finished-at="2022-05-28T20:40:12 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validreportsPageTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validreportsPageTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Reports.validReportsPage@3d921e20]" name="closeBrowser" is-config="true" duration-ms="734" started-at="2022-05-28T20:40:12 IST" finished-at="2022-05-28T20:40:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Reports.validReportsPage -->
+      <class name="com.SerAnt.Cases.validcases">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Cases.validcases@fad74ee]" name="openBrowser" is-config="true" duration-ms="3060" started-at="2022-05-28T20:40:19 IST" finished-at="2022-05-28T20:40:22 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validcasesTest()[pri:0, instance:com.SerAnt.Cases.validcases@fad74ee]" name="validcasesTest" duration-ms="1734" started-at="2022-05-28T20:40:22 IST" finished-at="2022-05-28T20:40:24 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validcasesTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validcasesTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Cases.validcases@fad74ee]" name="closeBrowser" is-config="true" duration-ms="737" started-at="2022-05-28T20:40:24 IST" finished-at="2022-05-28T20:40:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Cases.validcases -->
+      <class name="com.SerAnt.Activites.validactivites">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.SerAnt.Activites.validactivites@1a1d6a08]" name="openBrowser" is-config="true" duration-ms="3953" started-at="2022-05-28T20:40:25 IST" finished-at="2022-05-28T20:40:29 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="validactivitiesTest()[pri:0, instance:com.SerAnt.Activites.validactivites@1a1d6a08]" name="validactivitiesTest" duration-ms="1540" started-at="2022-05-28T20:40:29 IST" finished-at="2022-05-28T20:40:30 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[validactivitiesTest method started]]>
+            </line>
+            <line>
+              <![CDATA[SerAnt Page is Displayed,PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validactivitiesTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.SerAnt.Activites.validactivites@1a1d6a08]" name="closeBrowser" is-config="true" duration-ms="729" started-at="2022-05-28T20:40:30 IST" finished-at="2022-05-28T20:40:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.SerAnt.Activites.validactivites -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
